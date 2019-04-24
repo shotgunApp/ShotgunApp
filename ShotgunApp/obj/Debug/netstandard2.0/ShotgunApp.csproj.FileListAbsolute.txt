@@ -1,0 +1,17 @@
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\bin\Debug\netstandard2.0\ShotgunApp.deps.json
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\bin\Debug\netstandard2.0\ShotgunApp.dll
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\bin\Debug\netstandard2.0\ShotgunApp.pdb
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.csprojAssemblyReference.cache
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.csproj.CoreCompileInputs.cache
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.AssemblyInfoInputs.cache
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.AssemblyInfo.cs
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.dll
+D:\Personal\Shotgun\ShotgunApp\ShotgunApp\obj\Debug\netstandard2.0\ShotgunApp.pdb
